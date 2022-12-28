@@ -1,0 +1,16 @@
+E:\CSDL_CSharp\bin\Debug\CSDL_CSharp.exe.config
+E:\CSDL_CSharp\bin\Debug\CSDL_CSharp.exe
+E:\CSDL_CSharp\bin\Debug\CSDL_CSharp.pdb
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.csproj.AssemblyReference.cache
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.csproj.SuggestedBindingRedirects.cache
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.Bai1.resources
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.Properties.Resources.resources
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.csproj.GenerateResource.cache
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.csproj.CoreCompileInputs.cache
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.exe
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.pdb
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp.Menu.resources
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp._02.resources
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp._03.resources
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp._04.resources
+E:\CSDL_CSharp\obj\Debug\CSDL_CSharp._05.resources

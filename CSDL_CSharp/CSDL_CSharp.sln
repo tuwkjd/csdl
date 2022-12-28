@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSDL_CSharp", "CSDL_CSharp.csproj", "{163CC889-EBB2-4F79-8DE2-37AC52F958C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163CC889-EBB2-4F79-8DE2-37AC52F958C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163CC889-EBB2-4F79-8DE2-37AC52F958C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163CC889-EBB2-4F79-8DE2-37AC52F958C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163CC889-EBB2-4F79-8DE2-37AC52F958C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C88D75D-5822-4BC1-9C26-269B00045627}
+	EndGlobalSection
+EndGlobal
