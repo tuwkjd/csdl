@@ -1,0 +1,11 @@
+E:\KT02\bin\Debug\KT02.exe.config
+E:\KT02\bin\Debug\KT02.exe
+E:\KT02\bin\Debug\KT02.pdb
+E:\KT02\obj\Debug\KT02.csproj.AssemblyReference.cache
+E:\KT02\obj\Debug\KT02.csproj.SuggestedBindingRedirects.cache
+E:\KT02\obj\Debug\KT02.KT.resources
+E:\KT02\obj\Debug\KT02.Properties.Resources.resources
+E:\KT02\obj\Debug\KT02.csproj.GenerateResource.cache
+E:\KT02\obj\Debug\KT02.csproj.CoreCompileInputs.cache
+E:\KT02\obj\Debug\KT02.exe
+E:\KT02\obj\Debug\KT02.pdb
